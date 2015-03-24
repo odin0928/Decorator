@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExampleTryIt.Componets.元件" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Componets\元件.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleTryIt.Componets.攻擊系元件">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Componets\攻擊系元件.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ExampleTryIt.Componets.防禦性元件" Collapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Componets\防禦性元件.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleTryIt.Componets.倚天劍">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Componets\倚天劍.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleTryIt.Componets.閃電寶石" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Componets\閃電寶石.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleTryIt.Componets.堅固寶石" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAAAAAA=</HashCode>
+      <FileName>Componets\堅固寶石.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleTryIt.Componets.黃金鎧甲" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Componets\黃金鎧甲.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleTryIt.Componets.裝飾者" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAEA=</HashCode>
+      <FileName>Componets\裝飾者.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleTryIt.Program" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleTryIt.Componets.刀劍類">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAEAAAAAAAA=</HashCode>
+      <FileName>Componets\刀劍類.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleTryIt.Componets.傷害寶石">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAA=</HashCode>
+      <FileName>Componets\傷害寶石.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ExampleTryIt.Componets.攻擊力介面">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Componets\攻擊力介面.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="微軟正黑體" Size="9" />
+</ClassDiagram>
